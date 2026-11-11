@@ -9,13 +9,14 @@ Antes de programar pasé 10 años en el rubro eléctrico, y eso cambió mi forma
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
 | [CADCulator](https://github.com/lopezgalarce1997-debug/CADCulator-Portfolio) | Producto comercial para leer planos eléctricos DWG y DXF y cubicar instalaciones, en PC y Android | C#, .NET, Windows Forms, ASP.NET Core, SQLite, Docker |
+| [FerrePrice](https://github.com/lopezgalarce1997-debug/FerrePrice-Portfolio) | Comparador de precios de materiales de construcción en Chile: precios de 55 tiendas actualizados a diario y cotizaciones para instaladores | C#, .NET 10, ASP.NET Core, SQLite, Docker |
 | [Gestión Total](https://github.com/lopezgalarce1997-debug/Gestion-Total) | Software comercial de escritorio para gestión de obras, inventario y nómina | C#, .NET 8, WPF, SQLite |
 | [FormaLista](https://github.com/lopezgalarce1997-debug/FormaLista) | Creador de formularios y encuestas, con 455 pruebas automatizadas | TypeScript, Node.js, React, MySQL, MongoDB |
 | [NoCaigo](https://github.com/lopezgalarce1997-debug/NoCaigo) | API REST que detecta estafas en mensajes combinando reglas e IA | C#, ASP.NET Core, SQL Server |
 | [LoLSitio](https://github.com/lopezgalarce1997-debug/LoLSitio) | Estadísticas de League of Legends y app de escritorio | C#, Blazor, WPF, SQLite |
 
-CADCulator y Gestión Total son productos propietarios: sus repositorios muestran el proyecto, no el código fuente.
+CADCulator, FerrePrice y Gestión Total son productos propietarios: sus repositorios muestran el proyecto, no el código fuente.
 
 ## Contacto
 
-[Portafolio](https://www.bladimir-lopez.com) · [LinkedIn](https://www.linkedin.com/in/bladimirlopez) · [CADCulator](https://cadculator.cl)
+[Portafolio](https://www.bladimir-lopez.com) · [LinkedIn](https://www.linkedin.com/in/bladimirlopez) · [CADCulator](https://cadculator.cl) · [FerrePrice](https://ferreprice.cl)
